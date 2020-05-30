@@ -1,0 +1,165 @@
+body{
+  text-align: center;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: sans-serif;
+  font-size: 5.62em;
+  margin: 0 auto 0 auto;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: sans-serif;
+  font-size: 2.62em;
+  margin: 0 auto 0 auto;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+.top-container{
+  position: relative;
+  padding-top: 30px;
+  background-color: #e4fcf9;
+}
+
+.middle-container{
+  height: 1000px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  height: auto;
+}
+
+hr{
+  border-style: dotted;
+  width: 20%;
+  border-color: #EAF6F6;
+  border-width: 15px;
+  border-bottom-width: 0;
+}
+
+#man-beard-img{
+  height: 100px;
+}
+
+#cloud-1-img{
+  position: absolute;
+  right: 250px;
+}
+
+#cloud-2-img{
+  position: absolute;
+  left: 300px;
+  top: 300 px;
+}
+
+
+#main-heading{
+margin-top: 0.5em;
+font-family: cursive;
+
+}
+
+#pro-span {
+  color: #66BFBF;
+  text-decoration: underline;
+}
+
+#mountain-img{
+  width: 30%
+}
+
+.skill-row{
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img-1{
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.skill-text{
+  width: 75%
+}
+
+.skill-img-2{
+  width: 25%;
+  float: right;
+}
+
+
+.button{text-decoration:none; text-align:center;
+ padding:11px 32px;
+ border:solid 1px #004F72;
+ -webkit-border-radius:12px;
+ -moz-border-radius:12px;
+ border-radius: 12px;
+ font:16px Arial, Helvetica, sans-serif;
+ font-weight:bold;
+ color:#E5FFFF;
+ background-color:#3BA4C7;
+ background-image: -moz-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -webkit-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -o-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -ms-linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 );
+ background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+  }.button:hover{
+ padding:11px 32px;
+ border:solid 1px #004F72;
+ -webkit-border-radius:12px;
+ -moz-border-radius:12px;
+ border-radius: 12px;
+ font:16px Arial, Helvetica, sans-serif;
+ font-weight:bold;
+ color:#E5FFFF;
+ background-color:#3BA4C7;
+ background-image: -moz-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -webkit-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -o-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -ms-linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 );
+ background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+ }.button:active{
+ padding:11px 32px;
+ border:solid 1px #004F72;
+ -webkit-border-radius:12px;
+ -moz-border-radius:12px;
+ border-radius: 12px;
+ font:16px Arial, Helvetica, sans-serif;
+ font-weight:bold;
+ color:#E5FFFF;
+ background-color:#3BA4C7;
+ background-image: -moz-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -webkit-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -o-linear-gradient(top, #3BA4C7 0%, #1982A5 100%);
+ background-image: -ms-linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 );
+ background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;
+
+ }
+
+ .copyright{
+   color:  #EAF6F6
+ }
